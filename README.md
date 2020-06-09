@@ -9,6 +9,6 @@ Narcís Coll Follia
 
 - **StudentsPerformanceNet.csv**: El dataset "net"
 
-- **Codi.R**: Codi font del programa R desenvolupat per la neteja i anàlisi del detaset.
+- **Codi.R**: Codi font del programa R desenvolupat per la neteja i anàlisi del detaset. El codi està acompanyat de comentaris amb els apartats que fa referència.
 
 - **Respostes.pdf**: Respostes a les preguntes de la pràctica
